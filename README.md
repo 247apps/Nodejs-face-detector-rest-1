@@ -1,4 +1,4 @@
-## Nodejs-face-detector-rest-1 - This is the experiment of machine learning via Clarify develop by Biana Custom Web Services
+## Nodejs-face-detector-rest-1 - This is the experiment using Clarifai machine learning APIs developed by Biana Custom Web Services
 
 Express Nodejs App 
 
