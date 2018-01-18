@@ -18,7 +18,7 @@ PORT = 8081 (or default 8080 if not set in .env)
 ### REST API Details:
 
 #### face_detector URL:
-http://DETECTOR-SERVER.atbx.net:8081/detector/face_detector
+http://DETECTOR-SERVER.com:8081/detector/face_detector
 
 #### Method:
 POST
